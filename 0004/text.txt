@@ -1,0 +1,2 @@
+for content in files:
+        list_id.append(str(content).replace('\n',''))
